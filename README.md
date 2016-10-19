@@ -1,2 +1,1 @@
-# sandwitch-TSE
-ProjetTSE
+# sandwich-TSE
